@@ -27,6 +27,7 @@ A Code Network **Gesture Recognition Software** project implemented in **Python*
 Run the main script to start recognizing gestures in real-time:
 ```bash
 python src/gesture_recog.py
+```
 
 
 ## 🛠️ Technologies Used
