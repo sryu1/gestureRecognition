@@ -13,8 +13,7 @@ A Code Network **Gesture Recognition Software** project implemented in **Python*
 ## 🚀 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/gesture-recognition.git
-   cd gesture-recognition
+   git clone https://github.com/tdela12/CN20251_GestureRecognition.git
    ```
 2. Create a virtual environment and install dependencies:
    ```bash
