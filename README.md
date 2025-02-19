@@ -29,7 +29,6 @@ Run the main script to start recognizing gestures in real-time:
 python src/gesture_recog.py
 ```
 
-
 ## 🛠️ Technologies Used
 - **Python** (Programming Language)
 - **OpenCV** (Computer Vision)
@@ -42,5 +41,13 @@ python src/gesture_recog.py
 2. **Feature Extraction**: Extracting key hand landmarks.
 3. **Model Training**: Using a neural network to classify gestures.
 4. **Real-time Prediction**: Integrating the trained model for live recognition.
+
+## 🌟 If You Are Interested
+If you have the following skills or if you are simply looking to learn, here's how you can contribute:
+- **Python Basics**: If you're learning Python, start by looking at simple scripts and trying to understand how they work. You can help by cleaning up code, adding comments, or fixing small issues.
+- **Working with OpenCV**: If you're interested in computer vision, try running the project and experimenting with small changes, enhance gesture detection, fine-tune landmark tracking, or add new recognition features..
+- **Machine Learning**: Learn about leveraging certain machine learning models. Help improve the model accuracy, experiment with the model architecture, optimize performance, or identify alternative methodologies.
+- **Testing & Debugging**: Run the project, see if you encounter any issues, and report them. Even better, try to find small bugs and suggest fixes.
+- **Documentation**: Improving explanations in the README, adding beginner-friendly guides, or fixing typos can be a huge help.
 
 Feel free to contribute and enhance this project!
