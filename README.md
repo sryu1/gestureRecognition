@@ -1,3 +1,5 @@
+![Gesture Recognition](.github/assets/banner.svg)
+
 # GestureRecognition
 
 A Code Network **Gesture Recognition Software** project implemented in **Python** for recognizing and classifying hand gestures using computer vision and machine learning techniques.
