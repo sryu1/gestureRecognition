@@ -6,10 +6,4 @@
 
     #Read in a frame of the webcam feed and store it
 
-    #Apply image processing
-
-    #Identify and store hand landmarks
-
-    #Pass data into the ml model
-
     #logic to handle 
