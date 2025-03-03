@@ -11,8 +11,10 @@ This project focuses on detecting distinct live hand gestures. A Machine Learnin
 ## Libraries
 
 ## Hardware
+This project requires a webcam.
 
 ## Running the Program
+Run the gesture-recog.py file in order to launch the main program.
 
 ## Data Collection
 * Capture different gestures in different environments
