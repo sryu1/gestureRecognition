@@ -9,6 +9,14 @@ Welcome to the CodeNetwork 2025 Semester 1 gesture recognition program. Here is 
 
 This project focuses on detecting distinct live hand gestures. A Machine Learning approach is used to distinguish gestures.
 
+## File Structure
+
+For the YOLO model, the following file structure is required:
+
+For CNN:
+
+<br><br><br><br><br><br><br><br><br><br>
+
 ## Platform
 
 ## Libraries
