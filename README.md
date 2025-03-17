@@ -1,5 +1,7 @@
 ![Gesture Recognition](.github/assets/banner.svg)
 
+![](https://img.shields.io/badge/Dataset-Hugging%20Face-blue?style=flat&logo=huggingface&link=https%3A%2F%2Fhuggingface.co%2Fdatasets%2FCNGR%2FCN_Gesture_Recognition)
+
 # GestureRecognition
 
 A Code Network **Gesture Recognition Software** project implemented in **Python** for recognizing and classifying hand gestures using computer vision and machine learning techniques.
@@ -13,6 +15,7 @@ A Code Network **Gesture Recognition Software** project implemented in **Python*
 - Modular and extensible architecture.
 
 ### ✋ Gestures Recognised
+
 - Thumbs up
 - Thumbs down
 - Devil Horns (Rock Sign)
@@ -20,10 +23,10 @@ A Code Network **Gesture Recognition Software** project implemented in **Python*
 - Palm/stop
 - Fist bump
 - Fist
-- Peace 
+- Peace
 - Heart Finger
 - Heart Hands
-- Peace 
+- Peace
 - Chefs Kiss
 - Ok sign
 - Salute
