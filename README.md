@@ -1,6 +1,6 @@
 ![Gesture Recognition](.github/assets/banner.svg)
 
-<img src="https://img.shields.io/badge/Dataset-Hugging%20Face-blue?style=flat&logo=huggingface&link=https%3A%2F%2Fhuggingface.co%2Fdatasets%2FCNGR%2FCN_Gesture_Recognition" alt="Badge">
+![](https://img.shields.io/badge/Dataset-Hugging%20Face-blue?style=flat&logo=huggingface&logoSize=auto&link=https%3A%2F%2Fhuggingface.co%2Fdatasets%2FCNGR%2FCN_Gesture_Recognition&link=https%3A%2F%2Fhuggingface.co%2Fdatasets%2FCNGR%2FCN_Gesture_Recognition)
 
 # GestureRecognition
 
