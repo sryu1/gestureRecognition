@@ -12,6 +12,22 @@ A Code Network **Gesture Recognition Software** project implemented in **Python*
 - Live visualization of recognized gestures.
 - Modular and extensible architecture.
 
+### ✋ Gestures Recognised
+- Thumbs up
+- Thumbs down
+- Rock sign
+- Vulcan salute
+- Palm/stop
+- Fist bump
+- Fist
+- Peace 
+- Heart
+- Heart 2
+- Peace 
+- Chefs Kiss
+- Ok sign
+- Salute
+
 ## 🚀 Installation
 
 1. Clone the repository:
