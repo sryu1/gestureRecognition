@@ -1,9 +1,9 @@
-#Import the necessary packages
+# Import the necessary packages
 
-#Initialize video capture in a variable
+# Initialize video capture in a variable
 
-#Enter the infinite while loop here
+# Enter the infinite while loop here
 
-    #Read in a frame of the webcam feed and store it
+# Read in a frame of the webcam feed and store it
 
-    #logic to handle 
+# logic to handle
