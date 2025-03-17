@@ -1,9 +1,14 @@
+# For YOLO
+
 opencv-python
-mediapipe
+ultralytics
 numpy
-pandas
-tensorflow
-keras
+
+# For CNN
+
+pytorch
+torchvision
 matplotlib
 scikit-learn
-scipy
+seaborn
+pandas
