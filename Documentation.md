@@ -31,7 +31,19 @@ Run the gesture-recog.py file in order to launch the main program.
 
 ## Data Collection
 
-* Capture different gestures in different environments
+#### Step 1:
+- Get a camera (any camera)
+#### Step 2:
+- Start taking photos of your gesture
+- Make sure to grab different angles (move the camera around and move a hand around)
+- Try to grab different lightings (time of day, different directional lighting)
+- Try different backgrounds
+- Try different distances from the camera
+- If you can try to capture other people, different skin tones, small hands, big hands, etc.
+#### Step 3:
+- Upload images to the [Hugging face repository](https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/tree/main)
+- Depending on the gestures you captured add to the respective folder
+
 
 ## Main Loop
 
