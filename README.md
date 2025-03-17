@@ -1,6 +1,6 @@
 ![Gesture Recognition](.github/assets/banner.svg)
 
-[![Dataset](https://img.shields.io/badge/Dataset-🤗Huggingface-blue.svg)F](https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition)
+[![Dataset](https://img.shields.io/badge/Dataset-🤗Huggingface-blue.svg)](https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition)
 
 # GestureRecognition
 
