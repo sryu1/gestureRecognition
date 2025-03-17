@@ -15,14 +15,14 @@ A Code Network **Gesture Recognition Software** project implemented in **Python*
 ### ✋ Gestures Recognised
 - Thumbs up
 - Thumbs down
-- Rock sign
+- Devil Horns (Rock Sign)
 - Vulcan salute
 - Palm/stop
 - Fist bump
 - Fist
 - Peace 
-- Heart
-- Heart 2
+- Heart Finger
+- Heart Hands
 - Peace 
 - Chefs Kiss
 - Ok sign
