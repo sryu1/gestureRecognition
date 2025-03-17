@@ -50,7 +50,7 @@ python src/gesture_recog.py
 
 ## 🧪 Methodology
 
-### Two different models will be trained. One will be a YOLO model and the other will be a CNN model.
+### Two different models will be trained. One will be a YOLO model and the other will be a CNN model
 
 1. **Data Collection**: Capturing hand gestures using photos on phones.
 2. **Data Annotation/Preprocessing**: Extracting key hand landmarks/Processing data for training.
@@ -62,9 +62,10 @@ python src/gesture_recog.py
 If you have the following skills or if you are simply looking to learn, here's how you can contribute:
 
 - **Python Basics**: If you're learning Python, start by looking at simple scripts and trying to understand how they work. You can help by cleaning up code, adding comments, or fixing small issues.
-- **Working with OpenCV**: If you're interested in computer vision, try running the project and experimenting with small changes, enhance gesture detection, fine-tune landmark tracking, or add new recognition features..
-- **Machine Learning**: Learn about leveraging certain machine learning models. Help improve the model accuracy, experiment with the model architecture, optimize performance, or identify alternative methodologies.
+- **Data Collection**: If you're interested in data science, try capturing different gestures in different environments and use them to train the model.
+- **Machine Learning**: Learn about leveraging certain machine learning models. Help improve the model accuracy, experiment with the model architecture, optimize performance, change hyperparameters or identify alternative methodologies.
 - **Testing & Debugging**: Run the project, see if you encounter any issues, and report them. Even better, try to find small bugs and suggest fixes.
+- **Implementation**: Implementing machine learning into a real-world context.
 - **Documentation**: Improving explanations in the README, adding beginner-friendly guides, or fixing typos can be a huge help.
 
 Feel free to contribute and enhance this project!
