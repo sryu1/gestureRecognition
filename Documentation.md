@@ -29,13 +29,6 @@ This project focuses on detecting distinct live hand gestures. A Machine Learnin
 - Upload images to the [Hugging face repository](https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/tree/main)
 - Depending on the gestures you captured add to the respective folder
 
-<iframe
-  src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/embed/viewer/default/train"
-  frameborder="0"
-  width="100%"
-  height="560px"
-></iframe>
-
 ## File Structure
 
 For the YOLO model, the following file structure is required:
