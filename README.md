@@ -19,17 +19,17 @@ A Code Network **Gesture Recognition Software** project implemented in **Python*
 | Gesutre | Example |
 | ------- | --------|
 | Thumbs up | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/thumbs_up/WIN_20250317_18_48_48_Pro.jpg" width="300" height="300"> |
-| Thumbs down | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/thumbs_down/IMG_5097.jpeg"> |
-| Devil Horns (Rock Sign) | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/devil_horns/IMG_4961.jpeg"> |
-| Vulcan Salute | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/vulcan/IMG_6498.jpg"> |
-| Palm/Stop | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/palm/Photo%20on%2024-03-25%20at%206.24%E2%80%AFPM%20%232.jpeg"> |
-| Fist Bump | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/fist_bump/IMG_4952.jpeg"> |
-| Fist | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/fist_up/20250323_111104.jpg"> |
-| Peace | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/peace/IMG_5095.jpeg"> |
-| Heart Finger | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/heart_finger/IMG_5107.jpeg"> |
-| Heart Hands | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/heart_hands/WIN_20250324_12_19_04_Pro.jpg"> |
-| Chef's Kiss | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/chef_kiss/IMG_5083.jpeg"> |
-| Ok Sign | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/okay/IMG_5013.jpeg"> |
+| Thumbs down | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/thumbs_down/IMG_5097.jpeg" width="300" height="300"> |
+| Devil Horns (Rock Sign) | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/devil_horns/IMG_4961.jpeg" width="300" height="300"> |
+| Vulcan Salute | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/vulcan/IMG_6498.jpg" width="300" height="300"> |
+| Palm/Stop | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/palm/Photo%20on%2024-03-25%20at%206.24%E2%80%AFPM%20%232.jpeg" width="300" height="300"> |
+| Fist Bump | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/fist_bump/IMG_4952.jpeg" width="300" height="300"> |
+| Fist | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/fist_up/20250323_111104.jpg" width="300" height="300"> |
+| Peace | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/peace/IMG_5095.jpeg" width="300" height="300"> |
+| Heart Finger | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/heart_finger/IMG_5107.jpeg" width="300" height="300"> |
+| Heart Hands | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/heart_hands/WIN_20250324_12_19_04_Pro.jpg" width="300" height="300"> |
+| Chef's Kiss | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/chef_kiss/IMG_5083.jpeg" width="300" height="300"> |
+| Ok Sign | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/okay/IMG_5013.jpeg" width="300" height="300"> |
 
 ## 🚀 Installation
 
