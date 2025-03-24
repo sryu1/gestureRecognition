@@ -16,7 +16,7 @@ A Code Network **Gesture Recognition Software** project implemented in **Python*
 
 ### ✋ Gestures Recognised
 
-| Gesutre | Example |
+| Gesture | Example |
 | ------- | --------|
 | Thumbs up | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/thumbs_up/WIN_20250317_18_48_48_Pro.jpg" width="200"> |
 | Thumbs down | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/thumbs_down/IMG_5097.jpeg" width="200"> |
