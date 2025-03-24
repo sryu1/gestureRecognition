@@ -18,7 +18,7 @@ A Code Network **Gesture Recognition Software** project implemented in **Python*
 
 | Gesutre | Example |
 | ------- | --------|
-| Thumbs up | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/thumbs_up/WIN_20250317_18_48_48_Pro.jpg"> |
+| Thumbs up | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/thumbs_up/WIN_20250317_18_48_48_Pro.jpg" width="300" height="300"> |
 | Thumbs down | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/thumbs_down/IMG_5097.jpeg"> |
 | Devil Horns (Rock Sign) | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/devil_horns/IMG_4961.jpeg"> |
 | Vulcan Salute | <img src="https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/resolve/main/vulcan/IMG_6498.jpg"> |
