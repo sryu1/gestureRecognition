@@ -16,20 +16,20 @@ A Code Network **Gesture Recognition Software** project implemented in **Python*
 
 ### ✋ Gestures Recognised
 
-- Thumbs up
-- Thumbs down
-- Devil Horns (Rock Sign)
-- Vulcan salute
-- Palm/stop
-- Fist bump
-- Fist
-- Peace
-- Heart Finger
-- Heart Hands
-- Peace
-- Chefs Kiss
-- Ok sign
-- Salute
+| Gesutre | Example |
+| ------- | --------|
+| Thumbs up | |
+| Thumbs down | |
+| Devil Horns (Rock Sign) | |
+| Vulcan Salute | |
+| Palm/Stop | |
+| Fist Bump | |
+| Fist | |
+| Peace | |
+| Heart Finger | |
+| Heart Hands | |
+| Chef's Kiss | |
+| Ok Sign | |
 
 ## 🚀 Installation
 
