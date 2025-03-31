@@ -3,6 +3,9 @@ import cv2
 import numpy as np
 import mediapipe as mp
 
+hands = mp.solutions.hands.Hands()
+
+
 def main():
     #Initialize video capture in a variable
     feed = cv2.VideoCapture(0)
@@ -22,12 +25,26 @@ def main():
             break
         
         
+        
         #Flip camera so that the display acts like a mirror
         img = cv2.flip(img, 1)
         
-        #Convert to OpenCV colour space
-        img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+        #Convert the color space from RGB to OpenCV recognised BGR
+        #img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
+        #Recognise the hands from the frame
+        recHands = hands.process(img)
+        if recHands.multi_hand_landmarks:
+            for hand in recHands.multi_hand_landmarks:
+                #Draw dots to visualise the landmarks
+                for datapoint_id, point in enumerate(hand.landmark):
+                    h, w, c = img.shape
+                    x, y = int(point.x * w), int(point.y * h)
+                    cv2.circle(img, (x, y),
+                               5, (250, 200, 50)
+                               , cv2.FILLED)
+
+        #Display frames to the output feed
         cv2.imshow('Camera Feed',img)
         
         #Logic to handle program termination by user inp
@@ -39,3 +56,5 @@ def main():
 
     feed.release()
     cv2.destroyAllWindows()
+
+main()
