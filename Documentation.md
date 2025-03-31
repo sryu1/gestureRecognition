@@ -29,6 +29,31 @@ This project focuses on detecting distinct live hand gestures. A Machine Learnin
 - Upload images to the [Hugging face repository](https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition/tree/main)
 - Depending on the gestures you captured add to the respective folder
 
+## Data Annotation
+### Step 1
+
+- Clone the HuggingFace repository using the following command:
+``` bash
+git clone https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition --depth=1
+```
+- This will download all the pictures from our dataset, organised into their respective folders.
+- It would be wise to just select one gesture (folder) to work on at a time 
+
+### Step 2
+
+- Go to cvat.ai and log in with your GitHub account (or another way, but GitHub will be convenient since we've already been using it a lot).
+- On the landing page, select 'create new task' option.
+- Name the task after the gesture you picked in step 1
+- Select 'add label' and give it an appropriate name
+- Now follow the prompt to upload the files and upload the photos associated with your gesture (enter the folder for you gesture and hit CTRL + A to select them all, then upload)
+- Now just select 'submit and open'
+
+### Step 3
+
+- In the navbar up the top, select 'jobs' then select your job
+- You should see one of the pictures of your gesture. On the sidebar to the left, select the rectangle icon and make sure the label is set to the one you created.
+- Draw a new rectangle that highlights the section of the image that your gesture is in. (Note that you can press 'N' to start and stop the rectangle drawing process, and 'F' to progress to the next image. Utilising this will drastically improve the speed at which you annotate
+
 ## File Structure
 
 For the YOLO model, the following file structure is required:
