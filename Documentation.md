@@ -55,14 +55,14 @@ git clone https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition --depth=1
 - Now follow the prompt to upload the files and upload the photos associated with your gesture, however, do **NOT** upload all. Leave the last three images in your folder unuploaded to be used for validation.
 - Select submit and continue
 - After uploading is complete, go back to projects, and double click on your project. Press the blue button again and add another task.
-- Name the task after the gesture you picked in step 1 and add `_val_` to the end
+- Name the task after the gesture you picked in step 1 and add `_val` to the end
 - For subset, select 'Validation'
 - Upload the remaining files you have not yet uploaded.
 - Press submit and continue
 
 ### Step 3
 
-- In the navbar up the top, select 'jobs' then select your job
+- In the navbar up the top, select 'jobs' then select your job (please note that you'll have to do step 3 twice, one for test, another for val)
 - You should see one of the pictures of your gesture. On the sidebar to the left, select the rectangle icon and make sure the label is set to the one you created.
 - Draw a new rectangle that highlights the section of the image that your gesture is in. (Note that you can press 'N' to start and stop the rectangle drawing process, and 'F' to progress to the next image. Utilising this will drastically improve the speed at which you annotate
 
