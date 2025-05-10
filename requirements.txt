@@ -3,12 +3,3 @@
 opencv-python
 ultralytics
 numpy
-
-# For CNN
-
-pytorch
-torchvision
-matplotlib
-scikit-learn
-seaborn
-pandas

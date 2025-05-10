@@ -56,10 +56,6 @@ python gesture_recog.py
 - **Python** (Programming Language)
 - **OpenCV** (Computer Vision)
 - **YOLO** (Machine Learning Model)
-- **Pytorch** (Machine Learning Model)
-- **NumPy & Pandas** (Data Handling)
-- **Seaborn** (Data Visualization)
-- **Scikit-learn** (Machine Learning Model)
 
 ## 🧪 Methodology
 
