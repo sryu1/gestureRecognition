@@ -76,9 +76,7 @@ git clone https://huggingface.co/datasets/CNGR/CN_Gesture_Recognition --depth=1
 
 ## File Structure
 
-For the YOLO model, the following file structure is required:
-
-For CNN:
+The following file structure is required for the model to train:
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -88,7 +86,7 @@ For CNN:
 
 ## Hardware
 
-This project requires a webcam.
+This project requires a webcam for live testing.
 
 ## Running the Program
 
